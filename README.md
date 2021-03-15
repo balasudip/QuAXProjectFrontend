@@ -23,7 +23,7 @@ npm install body-parser
 Step 5:
 Start the server:
 nodemon server.js
-# server will start at localhost 4500
+Note: server will start at localhost 4500
 
 Step 6:
 Open the webbrowser Chrome:
